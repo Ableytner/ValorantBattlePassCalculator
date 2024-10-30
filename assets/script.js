@@ -1,8 +1,8 @@
 $(function() {
     $('[data-toggle="tooltip"]').tooltip();
 });
-const STARTING_DATE = new Date("2023/04/25"),
-    ENDING_DATE = new Date("2023/06/26"),
+const STARTING_DATE = new Date("2024/10/23"),
+    ENDING_DATE = new Date("2025/01/08"),
     INITIAL_TIER = 2,
     LAST_TIER = 50,
     EPILOGUE_TIERS = 5,
